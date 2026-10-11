@@ -1,0 +1,7 @@
+﻿Fase,Usuarios,Peticiones/s,p50 (ms),p95 (ms),% errores,Estado
+F1 Normal,10,9.7,22,60,0.0,APROBADA
+F2 Carga,50,47.9,24,155,0.0,APROBADA
+F3 Alta,100,94.8,34,125,0.0,APROBADA
+F4 Estrés,200,156.6,170,2100,0.74,NO APROBADA
+F5 Pico,400,168.7,1200,2600,1.75,NO APROBADA
+F6 Recuperación,10,9.8,8,50,0.0,APROBADA
